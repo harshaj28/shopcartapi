@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shopcartapi/static/css/main.463a75b2.css",
-    "main.js": "/shopcartapi/static/js/main.a050c185.js",
+    "main.js": "/shopcartapi/static/js/main.2f6c219d.js",
     "static/js/787.cbb57fb5.chunk.js": "/shopcartapi/static/js/787.cbb57fb5.chunk.js",
     "static/media/logo.svg": "/shopcartapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/shopcartapi/index.html",
     "main.463a75b2.css.map": "/shopcartapi/static/css/main.463a75b2.css.map",
-    "main.a050c185.js.map": "/shopcartapi/static/js/main.a050c185.js.map",
+    "main.2f6c219d.js.map": "/shopcartapi/static/js/main.2f6c219d.js.map",
     "787.cbb57fb5.chunk.js.map": "/shopcartapi/static/js/787.cbb57fb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.463a75b2.css",
-    "static/js/main.a050c185.js"
+    "static/js/main.2f6c219d.js"
   ]
 }
